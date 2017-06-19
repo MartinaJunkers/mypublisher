@@ -1,0 +1,15 @@
+# Site Settings
+title: Start Jekyll
+email: martina.junkers@gmail.com
+description: >
+  The best Sweet Chili Jam you've ever tasted.
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: MartinaJnkrs
+github_username:  MartinaJunkers
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
